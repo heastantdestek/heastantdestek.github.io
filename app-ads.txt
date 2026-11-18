@@ -1,3 +1,0 @@
-# AdMob yayıncı kimliğini (pub-XXXXXXXXXXXXXXXX) kendi kimliğinle değiştir.
-# Bu dosya, mağaza sayfasındaki "Web sitesi" alan adının KÖKÜNDE olmalı (ör. https://alanadiniz.com/app-ads.txt).
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
